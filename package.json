@@ -2,20 +2,20 @@
   "name": "ice-cream_project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://serhiilukianenkodev.github.io/ice-cream_project",
+  "homepage": "https://ihorborkaliuk.github.io/ice-cream/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream_project/"
+    "build": "parcel build src/*.html --public-url /ice-cream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/serhiilukianenkodev/ice-cream_project.git"
+    "url": "git+https://github.com/ihorborkaliuk/ice-cream.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/serhiilukianenkodev/ice-cream_project/issues"
+    "url": "https://github.com/ihorborkaliuk/ice-cream/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
